@@ -81,7 +81,7 @@ class Evaluation:
         import matplotlib.pyplot as plt
 
         font_config = {
-            'font.family': ['LXGW WenKai GB Screen R', 'JetBrains Mono NL'],  # 设置中英文字体
+            'font.family': ['WenQuanYi Zen Hei', 'JetBrains Mono'],  # 设置中英文字体
             'font.size': 10,  # 设置字体大小
             "mathtext.fontset": 'stix',  # 设置公式字体, 这是matplotlib自带的
             "font.serif": 'SimSun',  # 设置衬线字体
